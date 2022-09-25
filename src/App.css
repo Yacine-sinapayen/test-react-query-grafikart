@@ -1,0 +1,12 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ui.loader.fixed {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  z-index: 1000;
+}
